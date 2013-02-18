@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-simple-galleries\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-04 10:29-0000\n"
+"PO-Revision-Date: 2012-09-25 12:40-0300\n"
+"Last-Translator: Junior Godoi <juniorgodoi@gmail.com>\n"
+"Language-Team: www.jrgodoi.com <juniorgodoi@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: Y:\\wp-simple-galleries\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: pt_BR\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SearchPath-0: Y:\\wp-simple-galleries\n"
+
+#: Y:\wp-simple-galleries/wp-simple-gallery.php:76
+msgid "WP Simple Gallery"
+msgstr "WP Simple Gallery"
+
+#: Y:\wp-simple-galleries/wp-simple-gallery.php:89
+msgid "Upload Image"
+msgstr "Carregar  Imagem"
+
+#: Y:\wp-simple-galleries/wp-simple-gallery.php:90
+msgid "Add All Attachments"
+msgstr "Incluir Todos os Anexos"
+
+#: Y:\wp-simple-galleries/wp-simple-gallery.php:137
+msgid "Remove"
+msgstr "Remover"
+
+#: Y:\wp-simple-galleries/admin/options-framework.php:209
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+"Clique no botão OK para resetar. Qualquer preferência do tema será perdida!"
+
+#: Y:\wp-simple-galleries/admin/options-framework.php:242
+msgid "Default options restored."
+msgstr "As opções foram restauradas."
+
+#: Y:\wp-simple-galleries/admin/options-framework.php:283
+msgid "Options saved."
+msgstr "Opções salvas."
+
+#: Y:\wp-simple-galleries/admin/options-framework.php:339
+msgid "Theme Options"
+msgstr "Opções do Tema"
+
+#: Y:\wp-simple-galleries/admin/options-medialibrary-uploader.php:26
+msgid "Options Framework Internal Container"
+msgstr "Opções do Container Interno do Framework"
+
+#: Y:\wp-simple-galleries/admin/options-medialibrary-uploader.php:128
+msgid "Upload"
+msgstr "Carregar"
+
+#: Y:\wp-simple-galleries/admin/options-medialibrary-uploader.php:151
+msgid "View File"
+msgstr "Ver Arquivo"
+
+#: Y:\wp-simple-galleries/admin/options-medialibrary-uploader.php:288
+msgid "Gallery"
+msgstr "Galeria"
+
+#: Y:\wp-simple-galleries/admin/options-medialibrary-uploader.php:288
+msgid "Previously Uploaded"
+msgstr "Carregado Anteriormente"
+
+#: Y:\wp-simple-galleries/admin/options.php:24
+msgid "Basic Settings"
+msgstr "Preferências Básicas"
+
+#: Y:\wp-simple-galleries/admin/options.php:27
+msgid "Thumbnail Width"
+msgstr "Largura do Thumbnail"
+
+#: Y:\wp-simple-galleries/admin/options.php:28
+msgid ""
+"Thumbnail width (changing this will require thumbnails to be regenerated, "
+"this plugin will help: <a href='http://wordpress.org/extend/plugins/"
+"regenerate-thumbnails/' target='_blank'>Regenerate Thumbnails</a>)."
+msgstr ""
+"Largura do thumbnail (alterar este valor irá requerer que os thumbnails "
+"sejam gerados novamente, este plugin poderá ajudar: <a href='http://"
+"wordpress.org/extend/plugins/regenerate-thumbnails/' "
+"target='_blank'>Regenerate Thumbnails</a>)."
+
+#: Y:\wp-simple-galleries/admin/options.php:33
+msgid "Thumbnail Height"
+msgstr "Altura do Thumbnail"
+
+#: Y:\wp-simple-galleries/admin/options.php:34
+msgid ""
+"Thumbnail height (changing this will require thumbnails to be regenerated, "
+"this plugin will help: <a href='http://wordpress.org/extend/plugins/"
+"regenerate-thumbnails/' target='_blank'>Regenerate Thumbnails</a>)."
+msgstr ""
+"Altura do Thumbnail (alterar este valor irá requerer que os thumbnails sejam "
+"gerados novamente, este plugin poderá ajudar: <a href='http://wordpress.org/"
+"extend/plugins/regenerate-thumbnails/' target='_blank'>Regenerate "
+"Thumbnails</a>)."
+
+#: Y:\wp-simple-galleries/admin/options.php:40
+msgid "Content Filter Priority"
+msgstr "Prioridade do Filtro de Conteúdo"
+
+#: Y:\wp-simple-galleries/admin/options.php:41
+msgid ""
+"Used to specify the order execution. Lower numbers correspond with earlier "
+"execution, so set it to 1 to make it appear before all other plugins on "
+"content pages."
+msgstr ""
+"Usado para especificar a ordem de execução. Números baixos correspondem a "
+"uma execução prévia, altere para 1 para fazer com que seja exibido antes de "
+"qualquer outro plugin no conteúdo da página."
+
+#: Y:\wp-simple-galleries/admin/options.php:55
+msgid "Post Types"
+msgstr "Tipos de Post"
+
+#: Y:\wp-simple-galleries/admin/options.php:56
+msgid "What post types do you want to have galleries enabled"
+msgstr "Quais tipos de post você quer que tenham a galeria habilitada"
+
+#: Y:\wp-simple-galleries/admin/options.php:62
+msgid "Show on single posts only"
+msgstr "Exibir apenas em posts únicos"
+
+#: Y:\wp-simple-galleries/admin/options.php:63
+msgid ""
+"This will stop galleries from showing when more than one post is being shown."
+msgstr ""
+"Isso irá impedir que as galerias sejam exibidas quando mais de um post "
+"estiver sendo exibido."
+
+#: Y:\wp-simple-galleries/admin/options.php:70
+#: Y:\wp-simple-galleries/admin/options.php:98
+msgid "Please Donate"
+msgstr "Por favor Doe"
+
+#: Y:\wp-simple-galleries/admin/options.php:71
+#: Y:\wp-simple-galleries/admin/options.php:99
+msgid ""
+"Alot of time and effort went into making this plugin, all donations are "
+"hugely appreciated."
+msgstr ""
+"Um monte de tempo e esforço foram necessários para fazer este plugin, todas "
+"as doações são extremamente apreciadas."
+
+#: Y:\wp-simple-galleries/admin/options.php:76
+msgid "Colorbox Settings"
+msgstr "Preferências do Colorbox"
+
+#: Y:\wp-simple-galleries/admin/options.php:79
+msgid "Use Colorbox"
+msgstr "Usar Colorbox"
+
+#: Y:\wp-simple-galleries/admin/options.php:80
+msgid ""
+"Check to use colorbox. Sometimes it can conflict with other plugins such as "
+"Shopp."
+msgstr ""
+"Marque para usar Colorbox. Isso pode provocar conflito com outros plugins "
+"como o Shopp."
+
+#: Y:\wp-simple-galleries/admin/options.php:85
+msgid "Colorbox Theme"
+msgstr "Tema do Colorbox"

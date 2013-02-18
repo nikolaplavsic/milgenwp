@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-simple-galleries\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-04 10:29-0000\n"
+"PO-Revision-Date: 2012-04-04 10:31-0000\n"
+"Last-Translator: Matthew McConnell <maca134@googlemail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: Y:\\wp-simple-galleries\n"
+"X-Poedit-SearchPath-0: Y:\\wp-simple-galleries\n"
+
+#: Y:\wp-simple-galleries/wp-simple-gallery.php:76
+msgid "WP Simple Gallery"
+msgstr ""
+
+#: Y:\wp-simple-galleries/wp-simple-gallery.php:89
+msgid "Upload Image"
+msgstr ""
+
+#: Y:\wp-simple-galleries/wp-simple-gallery.php:90
+msgid "Add All Attachments"
+msgstr ""
+
+#: Y:\wp-simple-galleries/wp-simple-gallery.php:137
+msgid "Remove"
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options-framework.php:209
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options-framework.php:242
+msgid "Default options restored."
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options-framework.php:283
+msgid "Options saved."
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options-framework.php:339
+msgid "Theme Options"
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options-medialibrary-uploader.php:26
+msgid "Options Framework Internal Container"
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options-medialibrary-uploader.php:128
+msgid "Upload"
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options-medialibrary-uploader.php:151
+msgid "View File"
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options-medialibrary-uploader.php:288
+msgid "Gallery"
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options-medialibrary-uploader.php:288
+msgid "Previously Uploaded"
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options.php:24
+msgid "Basic Settings"
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options.php:27
+msgid "Thumbnail Width"
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options.php:28
+msgid "Thumbnail width (changing this will require thumbnails to be regenerated, this plugin will help: <a href='http://wordpress.org/extend/plugins/regenerate-thumbnails/' target='_blank'>Regenerate Thumbnails</a>)."
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options.php:33
+msgid "Thumbnail Height"
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options.php:34
+msgid "Thumbnail height (changing this will require thumbnails to be regenerated, this plugin will help: <a href='http://wordpress.org/extend/plugins/regenerate-thumbnails/' target='_blank'>Regenerate Thumbnails</a>)."
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options.php:40
+msgid "Content Filter Priority"
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options.php:41
+msgid "Used to specify the order execution. Lower numbers correspond with earlier execution, so set it to 1 to make it appear before all other plugins on content pages."
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options.php:55
+msgid "Post Types"
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options.php:56
+msgid "What post types do you want to have galleries enabled"
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options.php:62
+msgid "Show on single posts only"
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options.php:63
+msgid "This will stop galleries from showing when more than one post is being shown."
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options.php:70
+#: Y:\wp-simple-galleries/admin/options.php:98
+msgid "Please Donate"
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options.php:71
+#: Y:\wp-simple-galleries/admin/options.php:99
+msgid "Alot of time and effort went into making this plugin, all donations are hugely appreciated."
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options.php:76
+msgid "Colorbox Settings"
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options.php:79
+msgid "Use Colorbox"
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options.php:80
+msgid "Check to use colorbox. Sometimes it can conflict with other plugins such as Shopp."
+msgstr ""
+
+#: Y:\wp-simple-galleries/admin/options.php:85
+msgid "Colorbox Theme"
+msgstr ""
+
