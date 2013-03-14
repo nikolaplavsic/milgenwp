@@ -125,6 +125,8 @@ function vart_partner_info_meta_box_setup() {
 	
 	/* Save post meta on the 'save_post' hook. */
 	add_action( 'save_post', 'vart_save_partner_info_meta_box', 10, 2 );
+	
+	add_action( 'admin_enqueue_scripts', 'vart_partner_enqueue_scripts', 10, 2 );
 }
 
 /* Create one or more meta boxes to be displayed on the post editor screen. */
@@ -221,6 +223,10 @@ function vart_save_partner_info_meta_box( $post_id, $post ) {
 	}
 	
 
+}
+
+function vart_partner_enqueue_scripts(){
+	wp_enqueue_script('validation', BONES_ASSETS_DIR . 'js/jquery.validate.js', array('jquery'), false, true);
 }
 
 add_filter( 'manage_edit-partner_columns', 'vart_partner_columns_filter', 10, 1 );
